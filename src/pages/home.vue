@@ -1,6 +1,6 @@
 <template>
     <div>
-     s   homeds ád aádas
+     Trang chủ
     </div>
 </template>
 
